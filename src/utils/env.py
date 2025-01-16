@@ -1,0 +1,1 @@
+PATH_ARQUIVO = 'src\\PDFs\\Simples Nacional_1476_122024.pdf'
